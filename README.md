@@ -1,8 +1,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kohithReddy&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohithReddy&theme=synthwave&show_icons=true)](https://github.com/kohithms/github-readme-stats)
-
-
-https://skyline.github.com/kohithreddy/2021
-
-[a relative link] star.gif
+<html><body>
+<a ref="https://github.com/kohithms/kohithms/star.gif">
+  </body><html>
+  ![alt text]("https://github.com/kohithms/kohithms/star.gif")
