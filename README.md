@@ -8,7 +8,7 @@
 [<img src="https://github.com/kohithms/kohithms/blob/main/spotify.png">](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 
-![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg)a
+![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg)
 
 
 
