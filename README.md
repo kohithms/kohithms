@@ -10,5 +10,6 @@
 
 ![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg)
 
-
+### Watch my contribution graph
+![gihubsnake](https://user-images.githubusercontent.com/51953513/191090508-6b663000-0096-45a0-9a3a-9e1b0cae625d.gif)
 
