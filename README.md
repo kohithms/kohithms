@@ -4,14 +4,11 @@
 
 <img src="https://github.com/kohithms/kohithms/star.gif" width="700">
 
+### I'm listening to:
 [<img src="https://github.com/kohithms/kohithms/blob/main/spotify.png">](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 
-### I'm listening to:
-
-<a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"> Click here to listen to latest Spotify songs
-
-![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg)
+![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg)a
 
 
 
