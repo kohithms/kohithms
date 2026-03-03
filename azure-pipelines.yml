@@ -5,7 +5,7 @@ trigger:
       - ado
   paths:
     exclude:
-      - azure-pipelines.yaml
+      - azure-pipelines.yml
 
 pool:
   vmImage: 'ubuntu-24.04'
